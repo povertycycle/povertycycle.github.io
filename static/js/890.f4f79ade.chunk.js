@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpovertycycle=self.webpackChunkpovertycycle||[]).push([[890],{9890:function(e,c,s){e.exports=s.p+"static/media/resume.5de56645ba838e49b32f.docx"}}]);
