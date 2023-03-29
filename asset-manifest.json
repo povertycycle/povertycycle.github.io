@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.0001bdb8.js",
-    "static/css/857.c7645fab.chunk.css": "/static/css/857.c7645fab.chunk.css",
-    "static/js/857.040b3682.chunk.js": "/static/js/857.040b3682.chunk.js",
+    "main.js": "/static/js/main.22ea9326.js",
+    "static/css/931.abd74a79.chunk.css": "/static/css/931.abd74a79.chunk.css",
+    "static/js/931.3e0587aa.chunk.js": "/static/js/931.3e0587aa.chunk.js",
     "static/css/700.de6684f8.chunk.css": "/static/css/700.de6684f8.chunk.css",
     "static/js/700.f6777c64.chunk.js": "/static/js/700.f6777c64.chunk.js",
     "static/js/787.f4f816f0.chunk.js": "/static/js/787.f4f816f0.chunk.js",
@@ -11,6 +11,7 @@
     "static/js/667.b5c32c8a.chunk.js": "/static/js/667.b5c32c8a.chunk.js",
     "static/media/neon-script.ttf": "/static/media/neon-script.d41db052ad26e66a7855.ttf",
     "static/media/amazon-ember-light.ttf": "/static/media/amazon-ember-light.327fc56aff92da01c853.ttf",
+    "static/media/myriad-pro.otf": "/static/media/myriad-pro.6c518fcde55bd3397d56.otf",
     "static/media/market-deco.ttf": "/static/media/market-deco.81315f1a8b740b5efce6.ttf",
     "static/media/loading.gif": "/static/media/loading.f0da457c82bf9b99f567.gif",
     "static/media/andes.ttf": "/static/media/andes.c10a589ea8c3b13b3cf4.ttf",
@@ -35,9 +36,9 @@
     "static/media/grass.svg": "/static/media/grass.e09623e3345d5bf5286f.svg",
     "static/media/normal.svg": "/static/media/normal.2d254b2a2162c24e732d.svg",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.0001bdb8.js.map": "/static/js/main.0001bdb8.js.map",
-    "857.c7645fab.chunk.css.map": "/static/css/857.c7645fab.chunk.css.map",
-    "857.040b3682.chunk.js.map": "/static/js/857.040b3682.chunk.js.map",
+    "main.22ea9326.js.map": "/static/js/main.22ea9326.js.map",
+    "931.abd74a79.chunk.css.map": "/static/css/931.abd74a79.chunk.css.map",
+    "931.3e0587aa.chunk.js.map": "/static/js/931.3e0587aa.chunk.js.map",
     "700.de6684f8.chunk.css.map": "/static/css/700.de6684f8.chunk.css.map",
     "700.f6777c64.chunk.js.map": "/static/js/700.f6777c64.chunk.js.map",
     "787.f4f816f0.chunk.js.map": "/static/js/787.f4f816f0.chunk.js.map",
@@ -46,6 +47,6 @@
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0001bdb8.js"
+    "static/js/main.22ea9326.js"
   ]
 }
